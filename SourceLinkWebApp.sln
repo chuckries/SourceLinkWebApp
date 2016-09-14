@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.25712.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceLinkWebApp", "SourceLinkWebApp\SourceLinkWebApp.csproj", "{43F8CD0F-DEB5-4F60-84E6-8A728B5268DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceLinkWebApp.Tests", "SourceLinkWebApp.Tests\SourceLinkWebApp.Tests.csproj", "{3AF2ABCB-D100-4401-B9D2-254235D79722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43F8CD0F-DEB5-4F60-84E6-8A728B5268DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F8CD0F-DEB5-4F60-84E6-8A728B5268DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F8CD0F-DEB5-4F60-84E6-8A728B5268DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F8CD0F-DEB5-4F60-84E6-8A728B5268DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AF2ABCB-D100-4401-B9D2-254235D79722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF2ABCB-D100-4401-B9D2-254235D79722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF2ABCB-D100-4401-B9D2-254235D79722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF2ABCB-D100-4401-B9D2-254235D79722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
