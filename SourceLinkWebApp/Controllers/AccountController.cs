@@ -57,6 +57,7 @@ namespace SourceLinkWebApp.Controllers
         [AllowAnonymous]
         public ActionResult Login(string returnUrl)
         {
+            throw new Exception();
             ViewBag.ReturnUrl = returnUrl;
             return View();
         }
